@@ -12,13 +12,10 @@ I currently work at **Liquid Reply** on the **AI Modernization Team**, where we 
 
 In our latest work for the **AI Music Contest / Kappa FuturFestival**, I collaborated on a 10-minute **audio-visual DJ set** powered by:
 
-- 🎧 **Real-time audio feature extraction** (onset, energy, ZCR) with `librosa`
+- 🎧 **Real-time audio feature extraction** with `librosa`
 - 💻 **Live visuals rendered with GLSL**, interfaced through `ModernGL` in `Python`
-- 🧠 **AI-generated imagery and development support via GPT-4o**
+- 🧠 **AI-generated imagery**
 - 🎚 Built for responsiveness, immersion, and high-energy techno/electro flow
-
-🎥 View the project:  
-👉 [amerigo25.github.io](https://amerigo25.github.io)
 
 ---
 
