@@ -1,34 +1,48 @@
-## Hi there 👋 I'm Amerigo
+## 👋 Hi, I'm Amerigo
 
-🎛 **Software Engineer | Generative AI Specialist | Creative Coder**
+🎯 **AI Engineer | Backend Developer | LLM Systems Builder**
 
-I'm a software engineer with a strong background in **machine learning**, **signal processing**, and **creative coding**. I hold a Master's degree in ICT for Internet and Multimedia from the University of Padova, where I focused on AI, computer vision, and multimedia systems.
-
-I currently work at **Liquid Reply** on the **AI Modernization Team**, where we build advanced AI agents and deploy them at scale using modern cloud infrastructure.
+I'm a software engineer with a strong focus on **AI agent orchestration**, **Python backend development**, and **LLM integration**. I hold a Master's degree in *ICT for Internet and Multimedia* from the University of Padova, and currently work at **Liquid Reply** on the **AI Modernization Team**.
 
 ---
 
-### 🌀 Featured Project: AI-Enhanced Live Performance 🎶
+### 🛠 Tech Stack
 
-In our latest work for the **AI Music Contest / Kappa FuturFestival**, I collaborated on a 10-minute **audio-visual DJ set** powered by:
+#### 🧠 LLM & AI Agents
+- LangChain, LangGraph, OpenAI APIs, RAG pipelines
+- Toolformer-style agent patterns with modular toolsets
+- Vector DBs: Qdrant, Weaviate, LanceDB
 
-- 🎧 **Real-time audio feature extraction** with `librosa`
-- 💻 **Live visuals rendered with GLSL**, interfaced through `ModernGL` in `Python`
-- 🧠 **AI-generated imagery**
-- 🎚 Built for responsiveness, immersion, and high-energy techno/electro flow
+#### 🔌 Backend & APIs
+- FastAPI, OpenAPI, OAuth2
+- PostgreSQL + SQLAlchemy
+- (Learning and applying) asyncio & httpx for async microservices
+
+#### 💻 Frontend & Interfaces
+- Chainlit, LibreChat, OpenWebUI
+- Currently exploring: Streamlit, Dash for interactive dashboards
+
+#### ☁️ DevOps & Infra
+- Docker, Kubernetes, GCP
+- Grafana, OpenShift (basic), Jenkins (basic)
+- GitHub Actions for CI/CD
 
 ---
 
-### 🧠 My Broader Stack
+## 🚀 Featured Project: **LLMOps Dashboard (WIP)**
 
-- 🔹 Python, C/C++ (embedded systems & computer vision)
-- 🔹 LangChain & LangGraph for AI agent orchestration
-- 🔹 Docker & Kubernetes for scalable deployment
-- 🔹 OpenCV, librosa, MySQL, and more
+> A production-style agent platform for:
+> - Running, debugging and visualizing LangGraph agents
+> - Monitoring token usage, latency, and cost
+> - A/B testing prompts and managing agent configs
+> - UI via Chainlit + FastAPI backend + PostgreSQL + Grafana
+
+> → Built to solidify real-world use of **async programming**, **agent observability**, and **frontend/backend orchestration**
 
 ---
 
-### 📫 Let’s connect
+### 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/amerigo-aloisi-b97a1213a/) 
-- 🧠 [GitHub Projects](https://github.com/Amerigo25)
+- 💼 [LinkedIn](https://www.linkedin.com/in/amerigo-aloisi-b97a1213a/)  
+- 💻 [GitHub Projects](https://github.com/Amerigo25)  
+- 📧 `amerigo.aloisi [at] gmail.com`
