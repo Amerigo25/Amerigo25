@@ -29,15 +29,8 @@ I'm a software engineer with a strong focus on **AI agent orchestration**, **Pyt
 
 ---
 
-## 🚀 Featured Project: **LLMOps Dashboard (WIP)**
+## 🚀 Featured Project: ****
 
-> A production-style agent platform for:
-> - Running, debugging and visualizing LangGraph agents
-> - Monitoring token usage, latency, and cost
-> - A/B testing prompts and managing agent configs
-> - UI via Chainlit + FastAPI backend + PostgreSQL + Grafana
-
-> → Built to solidify real-world use of **async programming**, **agent observability**, and **frontend/backend orchestration**
 
 ---
 
@@ -45,4 +38,4 @@ I'm a software engineer with a strong focus on **AI agent orchestration**, **Pyt
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amerigo-aloisi-b97a1213a/)  
 - 💻 [GitHub Projects](https://github.com/Amerigo25)  
-- 📧 `amerigo.aloisi [at] gmail.com`
+- 📧 `amerigo.aloisi@gmail.com`
