@@ -9,9 +9,8 @@ I'm a software engineer with a strong focus on **AI agent orchestration**, **Pyt
 ### 🛠 Tech Stack
 
 #### 🧠 LLM & AI Agents
-- LangChain, LangGraph, Haystack, RAG pipelines
+- LangChain, LangGraph, Haystack, RAG pipelines, Chroma DB
 - Toolformer-style agent patterns with modular toolsets
-- Vector DBs: Chroma - ready to extend to Qdrant, Weaviate, LanceDB
 
 #### 🔌 Backend & APIs
 - FastAPI, OpenAPI, OAuth2
