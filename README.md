@@ -34,8 +34,8 @@ I'm a software engineer with a strong focus on **AI agent orchestration**, **Pyt
 
 ---
 
-## 🚀 Featured Project: ****
-coming soon...
+## 🚀 Featured Project: 
+**coming soon...**
 ---
 
 ### 📫 Contact
