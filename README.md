@@ -9,29 +9,33 @@ I'm a software engineer with a strong focus on **AI agent orchestration**, **Pyt
 ### 🛠 Tech Stack
 
 #### 🧠 LLM & AI Agents
-- LangChain, LangGraph, OpenAI APIs, RAG pipelines
+- LangChain, LangGraph, Haystack, RAG pipelines
 - Toolformer-style agent patterns with modular toolsets
-- Vector DBs: Qdrant, Weaviate, LanceDB
+- Vector DBs: Chroma - ready to extend to Qdrant, Weaviate, LanceDB
 
 #### 🔌 Backend & APIs
 - FastAPI, OpenAPI, OAuth2
 - PostgreSQL + SQLAlchemy
-- (Learning and applying) asyncio & httpx for async microservices
+- asyncio & httpx for async microservices
+- Web scraping: Playwright, BeautifulSoup
 
 #### 💻 Frontend & Interfaces
 - Chainlit, LibreChat, OpenWebUI
-- Currently exploring: Streamlit, Dash for interactive dashboards
+- Exploring: Streamlit, Dash for interactive dashboards
+
+#### 🧪 ML Foundations
+- PyTorch, TensorFlow, OpenCV
 
 #### ☁️ DevOps & Infra
 - Docker, Kubernetes, GCP
-- Grafana, OpenShift (basic), Jenkins (basic)
+- Grafana for Observability
+- OpenShift (basic), Jenkins (basic)
 - GitHub Actions for CI/CD
 
 ---
 
 ## 🚀 Featured Project: ****
-
-
+coming soon...
 ---
 
 ### 📫 Contact
