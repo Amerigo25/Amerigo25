@@ -2,7 +2,7 @@
 
 🎯 **AI Engineer | Backend Developer | LLM Systems Builder**
 
-I'm a software engineer with a strong focus on **AI agent orchestration**, **Python backend development**, and **LLM integration**. I hold a Master's degree in *ICT for Internet and Multimedia* from the University of Padova, and currently work at **Liquid Reply** on the **AI Modernization Team**.
+I'm a software engineer with a strong focus on **AI agent orchestration**, **Python backend development**, and **ML/LLM integration**. I hold a Master's degree in *ICT for Internet and Multimedia* from the University of Padova, and currently work at **Liquid Reply** on the **AI Modernization Team**.
 
 ---
 
@@ -29,7 +29,6 @@ I'm a software engineer with a strong focus on **AI agent orchestration**, **Pyt
 - Docker, Kubernetes, GCP
 - Grafana for Observability
 - OpenShift (basic), Jenkins (basic)
-- GitHub Actions for CI/CD
 
 ---
 
