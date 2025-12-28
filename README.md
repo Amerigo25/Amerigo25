@@ -1,41 +1,23 @@
-## 👋 Hi, I'm Amerigo
+👋 Hi, I'm Amerigo
+AI Engineer specializing in LLM agent systems and production infrastructure
+I build intelligent automation systems using LangChain/LangGraph and deploy them at scale. Currently working at Liquid Reply developing enterprise AI agents with hybrid RAG architectures and multi-system integrations.
+🎓 M.Sc. in ICT for Internet and Multimedia, University of Padua (110/110 with Honors)
 
-🎯 **AI Engineer | Backend Developer | LLM Systems Builder**
+🛠 Technical Skills
+AI & LLM Systems
+LangChain • LangGraph • Haystack • OpenAI SDK • RAG • Vector Embeddings • Async Agent Orchestration
+Backend & Data
+Python • FastAPI • PostgreSQL • MySQL • httpx • asyncio • SQLAlchemy
+DevOps & Infrastructure
+Docker • Kubernetes • Git • Jenkins • GitHub Actions • Grafana • Linux
+ML & Computer Vision
+PyTorch • TensorFlow • OpenCV
 
-I'm a software engineer with a strong focus on **AI agent orchestration**, **Python backend development**, and **ML/LLM integration**. I hold a Master's degree in *ICT for Internet and Multimedia* from the University of Padova, and currently work at **Liquid Reply** on the **AI Modernization Team**.
+🚀 Featured Projects
 
----
-
-### 🛠 Tech Stack
-
-#### 🧠 LLM & AI Agents
-- LangChain, LangGraph, Haystack, RAG pipelines, Chroma DB
-- Toolformer-style agent patterns with modular toolsets
-
-#### 🔌 Backend & APIs
-- FastAPI, OpenAPI, OAuth2
-- PostgreSQL + SQLAlchemy
-- asyncio & httpx for async microservices
-- Web scraping: Playwright, BeautifulSoup
-
-#### 💻 Frontend & Interfaces
-- Chainlit, LibreChat, OpenWebUI
-- Exploring: Streamlit, Dash for interactive dashboards
-
-#### 🧪 ML Foundations
-- PyTorch, TensorFlow, OpenCV
-
-#### ☁️ DevOps & Infra
-- Docker, Kubernetes, GCP
-- Grafana for Observability
-- OpenShift (basic), Jenkins (basic)
-
----
-
-## 🚀 Featured Project: 
-**coming soon...**
----
-
+🤖 SIFT Autoencoder for Structure from Motion
+Autoencoder model for compressing SIFT features, optimizing storage efficiency and accelerating feature matching in 3D reconstruction pipelines.
+Python Keras OpenCV COLMAP
 ### 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amerigo-aloisi-b97a1213a/)  
