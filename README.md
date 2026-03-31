@@ -1,41 +1,72 @@
-## 👋 Hi, I'm Amerigo
+## 👋 Amerigo Aloisi
 
-**AI Engineer specializing in LLM agent systems and production infrastructure**
+ML Systems Engineer focused on building and deploying production-grade AI systems in cloud-native environments.
 
-I build intelligent automation systems using LangChain/LangGraph and deploy them at scale. Currently working at **Liquid Reply** developing enterprise AI agents with hybrid RAG architectures and multi-system integrations.
+Experience spans distributed backend systems, retrieval pipelines, and ML-powered infrastructure automation, with a focus on reliability, scalability, and observability in real-world production settings.
 
-🎓 M.Sc. in ICT for Internet and Multimedia, University of Padua (110/110 with Honors)
-
----
-
-## 🛠 Technical Skills
-
-**AI & LLM Systems**  
-LangChain • LangGraph • Haystack • OpenAI SDK • RAG • Vector Embeddings • Async Agent Orchestration
-
-**Backend & Data**  
-Python • FastAPI • PostgreSQL • MySQL • httpx • asyncio • SQLAlchemy
-
-**DevOps & Infrastructure**  
-Docker • Kubernetes • Git • Jenkins • GitHub Actions • Grafana • Linux
-
-**ML & Computer Vision**  
-PyTorch • TensorFlow • OpenCV
+Currently working at Liquid Reply, developing AI systems that integrate enterprise APIs, containerized infrastructure, and large-scale data sources.
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Core Areas
 
-
-
-### 🤖 SIFT Autoencoder for Structure from Motion
-Autoencoder model for compressing SIFT features, optimizing storage efficiency and accelerating feature matching in 3D reconstruction pipelines.
-
-`Python` `Keras` `OpenCV` `COLMAP`
+- ML Systems Engineering  
+- Distributed Systems (async Python, multi-service architectures)  
+- Retrieval Systems (RAG, hybrid search)  
+- Cloud-Native Infrastructure (Kubernetes, OpenShift)  
+- Observability for AI systems (tracing, monitoring, debugging)
 
 ---
 
-## 📫 Let's Connect
+## 🛠 Tech Stack
 
-💼 [LinkedIn](https://www.linkedin.com/in/amerigo-aloisi-b97a1213a/)  
-📧 `amerigo.aloisi@gmail.com`
+### Languages
+- Python  
+- C++  
+
+### ML / Data
+- PyTorch  
+- OpenCV  
+- Retrieval pipelines, embeddings, hybrid search  (LangChain,LangGraph Haystack)
+
+### Systems & Backend
+- Async Python (asyncio, httpx)  
+- API integration  
+- Data pipelines  
+
+### Infrastructure
+- Docker  
+- Kubernetes  
+- OpenShift  
+- CI/CD (Jenkins, GitHub Actions)  
+
+### Observability
+- Grafana  
+- Splunk  
+- Langfuse  
+
+---
+
+## 🚀 Selected Project
+
+### SIFT Autoencoder for Structure from Motion
+
+- Built an autoencoder-based compression pipeline for SIFT descriptors to reduce storage footprint and accelerate feature matching in 3D reconstruction pipelines  
+- Integrated with COLMAP-based workflows  
+
+**Tech:** Python, Keras, OpenCV  
+
+---
+
+## 🎓 Background
+
+M.Sc. in ICT for Internet and Multimedia — University of Padua (110/110 with Honors)
+
+Research experience at Sony (Stuttgart) on hyperspectral imaging and deep learning models for material classification.
+
+---
+
+## 📫 Links
+
+- LinkedIn: https://www.linkedin.com/in/amerigo-aloisi-b97a1213a/  
+- Email: amerigo.aloisi@gmail.com  
