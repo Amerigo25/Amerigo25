@@ -27,7 +27,7 @@ Currently working at Liquid Reply, developing AI systems that integrate enterpri
 ### ML / Data
 - PyTorch  
 - OpenCV  
-- Retrieval pipelines, embeddings, hybrid search  (LangChain,LangGraph Haystack)
+- Retrieval pipelines, embeddings, hybrid search  (LangChain, LangGraph, Haystack)
 
 ### Systems & Backend
 - Async Python (asyncio, httpx)  
